@@ -15,6 +15,7 @@ DOI: [to be added after acceptance]
 - src/Create_training_data.py → Creation of training data (9 KB)
 - src/Training.py → Training the beta-VAE (9 KB)
 - src/DinoTracker.py → The app for footprint analysis (31 KB)
+- docs/Installation_guide.pdf → See below "Environment Setup" (965 KB)
 
 ## Environment
 This application was tested with:
