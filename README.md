@@ -24,3 +24,15 @@ This application was tested with:
 - Pyqtgraph 0.13.7
 - PIL 11.3.0
 - h5py 3.14.0
+
+
+## Licenses of dependencies
+- Python (PSF License)
+- PyTorch (BSD-style)
+- PyQt6 (GPL-3.0)
+- NumPy (BSD)
+- PyQtGraph (MIT)
+- Pillow (PIL License)
+- h5py (BSD)
+
+This application is released under GPL-3.0 to comply with PyQt6 licensing. All other dependencies are permissive and compatible with GPL-3.0.
