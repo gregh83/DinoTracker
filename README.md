@@ -14,3 +14,13 @@ DOI: [to be added after acceptance]
 - src/Create_training_data.py → Creation of training data (9 KB)
 - src/Training.py → Training the beta-VAE (9 KB)
 - src/DinoTracker_v1.0.py → The app for footprint analysis (31 KB)
+
+## Environment
+This application was tested with:
+- Python 3.13.5
+- PyTorch 2.9.0
+- PyQt6 6.9.1
+- NumPy 2.2.6
+- Pyqtgraph 0.13.7
+- PIL 11.3.0
+- h5py 3.14.0
