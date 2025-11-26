@@ -14,7 +14,7 @@ DOI: [to be added after acceptance]
 - models/mu.npy → Encoding of the images (78 KB)
 - src/Create_training_data.py → Creation of training data (9 KB)
 - src/Training.py → Training the beta-VAE (9 KB)
-- src/DinoTracker_v1.0.py → The app for footprint analysis (31 KB)
+- src/DinoTracker.py → The app for footprint analysis (31 KB)
 
 ## Environment
 This application was tested with:
