@@ -22,7 +22,7 @@ This application was tested with:
 - PyTorch 2.9.0
 - PyQt6 6.9.1
 - NumPy 2.2.6
-- Pyqtgraph 0.13.7
+- pyqtgraph 0.13.7
 - PIL 11.3.0
 - h5py 3.14.0
 
