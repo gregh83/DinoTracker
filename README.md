@@ -9,7 +9,7 @@ DOI: [to be added after acceptance]
 - data/images_compressed.npz → Raw data used for training and testing (1 MB)
 - data/names.npy → Names of the images (300 KB)
 - data/Tone_logo_small.png → The app's logo (42 KB)
-- data/tracks.xlsx → Overview of the used tracks
+- data/tracks.xlsx → Overview of the used tracks (88 KB)
 - models/model_BETA15_BIG_3k_shuffle_epoch1000.pth → beta-VAE model (2.5 MB)
 - models/mu.npy → Encoding of the images (78 KB)
 - src/Create_training_data.py → Creation of training data (9 KB)
