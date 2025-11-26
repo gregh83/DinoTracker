@@ -25,6 +25,10 @@ This application was tested with:
 - PIL 11.3.0
 - h5py 3.14.0
 
+## Environment Setup
+To make this application accessible to researchers from different backgrounds, we provide a 
+step‑by‑step illustrated guide for setting up the Python environment. This guide was created 
+based on feedback from early testers and is available here: /docs/Installation_guide.pdf.
 
 ## Licenses of dependencies
 - Python (PSF License)
