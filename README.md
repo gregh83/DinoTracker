@@ -32,6 +32,23 @@ To make this application accessible to researchers from different backgrounds, w
 step‑by‑step illustrated guide for setting up the Python environment. This guide was created 
 based on feedback from early testers and is available here: /docs/Installation_guide.pdf.
 
+## Feedback and Contributions
+
+We warmly welcome feedback, feature requests, and ideas for improving this application.  
+If you have suggestions or encounter any issues, please contact:
+
+📧 gregor.hartmann@helmholtz-berlin.de
+
+### Contributing Data
+To further improve the training of our neural network, we are actively seeking additional **dinosaur footprint data**.  
+- Silhouettes  
+- Photographs  
+- Other relevant image material  
+
+If you have access to such data and are willing to share, your contribution would be highly valuable to expanding our dataset and enhancing the accuracy of footprint analysis.
+
+All contributions will be acknowledged, and shared data will be used strictly for research and development purposes.
+
 ## Training Process and Hardware
 
 The training of the network was performed on an **Apple Mac Studio** equipped with:
