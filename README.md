@@ -47,11 +47,11 @@ The code is optimized to take advantage of the large unified memory available on
 For users without access to such hardware, an **alternative data loader** is provided to enable training on machines with more limited resources.
 
 On Apple Silicon systems, the recommended backend is:
-device = torch.device("mps")
+- device = torch.device("mps")
 
 On other platforms, replace "mps" with "cpu" or "cuda" depending on availability:
-device = torch.device("cpu")   # for CPU-only systems
-device = torch.device("cuda")  # for NVIDIA GPU systems
+- device = torch.device("cpu")   # for CPU-only systems
+- device = torch.device("cuda")  # for NVIDIA GPU systems
 
 ## Licenses of dependencies
 - Python (PSF License)
