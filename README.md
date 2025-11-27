@@ -32,6 +32,27 @@ To make this application accessible to researchers from different backgrounds, w
 step‑by‑step illustrated guide for setting up the Python environment. This guide was created 
 based on feedback from early testers and is available here: /docs/Installation_guide.pdf.
 
+## Training Process and Hardware
+
+The training of this application was performed on an **Apple Mac Studio** equipped with:
+
+- Apple M2 Ultra  
+- 24‑core CPU  
+- 76‑core GPU  
+- 32‑core Neural Engine  
+- 192 GB unified memory  
+- 8 TB SSD storage  
+
+The code is optimized to take advantage of the large unified memory available on this system.  
+For users without access to such hardware, an **alternative data loader** is provided to enable training on machines with more limited resources.
+
+On Apple Silicon systems, the recommended backend is:
+device = torch.device("mps")
+
+On other platforms, replace "mps" with "cpu" or "cuda" depending on availability:
+device = torch.device("cpu")   # for CPU-only systems
+device = torch.device("cuda")  # for NVIDIA GPU systems
+
 ## Licenses of dependencies
 - Python (PSF License)
 - PyTorch (BSD-style)
