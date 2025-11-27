@@ -34,7 +34,7 @@ based on feedback from early testers and is available here: /docs/Installation_g
 
 ## Training Process and Hardware
 
-The training of this application was performed on an **Apple Mac Studio** equipped with:
+The training of the network was performed on an **Apple Mac Studio** equipped with:
 
 - Apple M2 Ultra  
 - 24‑core CPU  
