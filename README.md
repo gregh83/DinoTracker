@@ -32,6 +32,9 @@ To make this application accessible to researchers from different backgrounds, w
 step‑by‑step illustrated guide for setting up the Python environment. This guide was created 
 based on feedback from early testers and is available here: /docs/Installation_guide.pdf.
 
+## Startup
+`python src/DinoTracker.py`
+
 ## Feedback and Contributions
 
 We warmly welcome feedback, feature requests, and ideas for improving this application.  
