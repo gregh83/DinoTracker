@@ -1,6 +1,6 @@
 # DinoTracker
 App for dinosaur footprint analysis via disentangled variational autoencoder.
-![GUI of the DinoTracker app](data/screenshot.png)
+![GUI of the DinoTracker app](data/demo.gif)
 
 ## Citation
 This repository provides the app described in the following paper:
