@@ -71,6 +71,8 @@ On other platforms, replace "mps" with "cpu" or "cuda" depending on availability
 - `device = torch.device("cpu")`   # for CPU-only systems
 - `device = torch.device("cuda")` # for NVIDIA GPU systems
 
+Note: This section is relevant only for training the network from scratch. For the DinoTracker app, we provide a fully trained network and recommend to use cpu inference, which is the default setting. 
+
 ## Licenses of dependencies
 - Python (PSF License)
 - PyTorch (BSD-style)
