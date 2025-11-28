@@ -56,9 +56,7 @@ The training of the network was performed on an **Apple Mac Studio** equipped wi
 - Apple M2 Ultra  
 - 24‑core CPU  
 - 76‑core GPU  
-- 32‑core Neural Engine  
 - 192 GB unified memory  
-- 8 TB SSD storage  
 
 The code is optimized to take advantage of the large unified memory available on this system.  
 For users without access to such hardware, an **alternative data loader** is provided to enable training on machines with more limited resources.
