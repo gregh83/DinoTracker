@@ -53,7 +53,7 @@ All contributions will be acknowledged, and shared data will be used strictly fo
 
 The training of the network was performed on an **Apple Mac Studio** equipped with:
 
-- Apple M2 Ultra  
+- M2 Ultra  
 - 24‑core CPU  
 - 76‑core GPU  
 - 192 GB unified memory  
