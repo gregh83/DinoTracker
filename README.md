@@ -4,7 +4,7 @@ App for dinosaur footprint analysis via disentangled variational autoencoder.
 
 ## Citation
 This repository provides the app described in the following paper:
-DOI: [to be added after acceptance]
+DOI: www.pnas.org/doi/10.1073/pnas.2527222122 
 
 ## Repository Structure
 - data/images_compressed.npz → Raw data used for training and testing (1 MB)
