@@ -5,7 +5,7 @@ Youtube DinoTracker mini-doc (English): https://youtu.be/ZbGp8tIOfqw
 DeutschlandFunk radio interview (German): https://www.deutschlandfunk.de/versteinerte-spuren-ki-app-klassifiziert-fussabdruecke-von-dinosauriern-100.html
 
 ## Citation
-This repository provides the app described in the following paper:
+This repository provides the app described in the following paper:  
 G. Hartmann, T. Blakesley, P.E. dePolo,  & S.L. Brusatte,  
 Identifying variation in dinosaur footprints and classifying problematic specimens via unbiased unsupervised machine learning,  
 Proc. Natl. Acad. Sci. U.S.A. 123 (5) e2527222122,  
