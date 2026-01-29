@@ -1,8 +1,11 @@
 # DinoTracker
 App for dinosaur footprint analysis via disentangled variational autoencoder.
 ![GUI of the DinoTracker app](data/demo.gif)
-Youtube DinoTracker mini-doc (English): https://youtu.be/ZbGp8tIOfqw  
-DeutschlandFunk radio interview (German): https://www.deutschlandfunk.de/versteinerte-spuren-ki-app-klassifiziert-fussabdruecke-von-dinosauriern-100.html
+Youtube DinoTracker mini-doc (English): https://youtu.be/ZbGp8tIOfqw   
+DeutschlandFunk radio interview (German): https://www.deutschlandfunk.de/versteinerte-spuren-ki-app-klassifiziert-fussabdruecke-von-dinosauriern-100.html  
+The Conversation article (English): https://theconversation.com/identifying-dinosaurs-from-their-footprints-is-difficult-but-ai-can-help-274386  
+The Guardian article (English): https://www.theguardian.com/science/2026/jan/26/scientists-launch-ai-dinotracker-app-that-identifies-dinosaur-footprints  
+
 
 ## Citation
 This repository provides the app described in the following paper:  
