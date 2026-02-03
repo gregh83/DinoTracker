@@ -8,8 +8,9 @@ The Conversation article (English):
 https://theconversation.com/identifying-dinosaurs-from-their-footprints-is-difficult-but-ai-can-help-274386  
 DeutschlandFunk radio interview (German):   
 https://www.deutschlandfunk.de/versteinerte-spuren-ki-app-klassifiziert-fussabdruecke-von-dinosauriern-100.html  
-The Guardian article (English):   
-https://www.theguardian.com/science/2026/jan/26/scientists-launch-ai-dinotracker-app-that-identifies-dinosaur-footprints  
+The Guardian article (English):  
+- **The Guardian** – [Scientists launch AI DinoTracker app that identifies dinosaur footprints]([https://www.theguardian.com/...](https://www.theguardian.com/science/2026/jan/26/scientists-launch-ai-dinotracker-app-that-identifies-dinosaur-footprints  ))
+
 BBC (English):   
 https://www.bbc.co.uk/newsround/articles/c70l764y2y1o  
 IFL Science (English):   
