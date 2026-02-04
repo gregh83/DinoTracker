@@ -3,17 +3,25 @@ App for dinosaur footprint analysis via disentangled variational autoencoder.
 ![GUI of the DinoTracker app](data/demo.gif)
 Youtube DinoTracker mini-doc (English): https://youtu.be/ZbGp8tIOfqw   
 
-## Media coverage
-**The Conversation**:   
-https://theconversation.com/identifying-dinosaurs-from-their-footprints-is-difficult-but-ai-can-help-274386  
-**DeutschlandFunk** (German):  
-https://www.deutschlandfunk.de/versteinerte-spuren-ki-app-klassifiziert-fussabdruecke-von-dinosauriern-100.html    
-**The Guardian**:    
-https://www.theguardian.com/science/2026/jan/26/scientists-launch-ai-dinotracker-app-that-identifies-dinosaur-footprints  
-**BBC**:     
-https://www.bbc.co.uk/newsround/articles/c70l764y2y1o   
-**IFL Science**:     
-https://www.iflscience.com/did-ai-just-identify-the-worlds-oldest-birds-meet-dinotracker-the-app-of-ichnologys-dreams-82410    
+## Selected media coverage
+
+The project and the Dinotracker app have been covered by international media outlets, including:
+
+- **The Conversation** –  
+  [Identifying dinosaurs from their footprints is difficult, but AI can help](https://theconversation.com/identifying-dinosaurs-from-their-footprints-is-difficult-but-ai-can-help-274386)
+
+- **Deutschlandfunk** (German) –  
+  [Versteinerte Spuren: KI-App klassifiziert Fußabdrücke von Dinosauriern](https://www.deutschlandfunk.de/versteinerte-spuren-ki-app-klassifiziert-fussabdruecke-von-dinosauriern-100.html)
+
+- **The Guardian** –  
+  [Scientists launch AI Dinotracker app that identifies dinosaur footprints](https://www.theguardian.com/science/2026/jan/26/scientists-launch-ai-dinotracker-app-that-identifies-dinosaur-footprints)
+
+- **BBC Newsround** –  
+  [Meet Dinotracker: the AI app that identifies dinosaur footprints](https://www.bbc.co.uk/newsround/articles/c70l764y2y1o)
+
+- **IFLScience** –  
+  [Did AI just identify the world’s oldest birds? Meet Dinotracker](https://www.iflscience.com/did-ai-just-identify-the-worlds-oldest-birds-meet-dinotracker-the-app-of-ichnologys-dreams-82410)
+
 
 
 ## Citation
