@@ -19,8 +19,8 @@ The project and the Dinotracker app have been covered by international media out
 - **BBC Newsround** –  
   [Meet Dinotracker: the AI app that identifies dinosaur footprints](https://www.bbc.co.uk/newsround/articles/c70l764y2y1o)
 
-- **IFLScience** –  
-  [Did AI just identify the world’s oldest birds? Meet Dinotracker](https://www.iflscience.com/did-ai-just-identify-the-worlds-oldest-birds-meet-dinotracker-the-app-of-ichnologys-dreams-82410)
+- **Reuters** –  
+  [New AI method helps identify which dinosaur made which footprints](https://www.reuters.com/science/new-ai-method-helps-identify-which-dinosaur-made-which-footprints-2026-02-06/)
 
 
 
